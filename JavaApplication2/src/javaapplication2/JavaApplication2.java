@@ -11,6 +11,7 @@ public class JavaApplication2 {
     //I just added this
     String Name= s.nextLine();
     System.out.println(Name);
+    System.out.println("Name: " + Name + "Fff");
     
     }
     
