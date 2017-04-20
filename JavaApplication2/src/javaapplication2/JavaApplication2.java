@@ -8,6 +8,7 @@ public class JavaApplication2 {
        
     System.out.println("Soso lala");
     Scanner s = new Scanner(System.in);//Hey Hey
+    //I just added this
     String Name= s.nextLine();
     System.out.println(Name);
     
