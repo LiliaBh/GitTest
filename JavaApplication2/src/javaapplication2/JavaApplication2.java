@@ -12,7 +12,6 @@ public class JavaApplication2 {
     String Name= s.nextLine();
     System.out.println(Name);
     
-    
     }
     
 }
